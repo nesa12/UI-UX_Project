@@ -34,5 +34,4 @@ Deliverables
 ## Figma Prototype
 ![figma ](https://github.com/nesa12/UI-UX_Project/assets/87229466/c3851cfe-fe97-4f0a-b9f3-f4e1d9811ce4)
 
-- Figma Link - [https://www.figma.com/file/R0SkfuYqG4dfQDv5LqamzA/Bank-Mobile-Application-Wireframes?node-id=0%3A1&t=pM1emFuXKq8Ro4fk-1](https://www.figma.com/file/R0SkfuYqG4dfQDv5LqamzA/Bank-Mobile-Application-Wireframes?node-id=0%3A1&t=pM1emFuXKq8Ro4fk-1)
-- Prototype Link - [https://bit.ly/41j571L](https://bit.ly/41j571L)
+
